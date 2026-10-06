@@ -1,4 +1,7 @@
 # atv2_flutter
+O projeto é um app Flutter com uma tela turística do Lago Oeschinen (foto, título, botões e descrição) e um menu lateral animado. Tem tema claro/escuro, alternado por um botão na barra superior, e fontes do Google Fonts.
+
+Ele combina o tutorial Build a layout (a tela do lago) com a receita Create a staggered menu animation (o menu), que traz um menu com animação. O tema e as fontes foram acrescentados por cima.
 
 A new Flutter project.
 
